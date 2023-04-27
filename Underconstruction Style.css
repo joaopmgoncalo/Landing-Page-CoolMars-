@@ -1,0 +1,14 @@
+body {
+    background-image: url(imagens/underconstruction.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color:white;
+    text-align: right;
+    margin: 0px 60px 0px 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.icon{
+    font-size: 100px;
+    text-align: center;
+    margin-top: 300px;
+}
